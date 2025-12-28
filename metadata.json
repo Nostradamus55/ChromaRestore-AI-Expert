@@ -1,0 +1,7 @@
+{
+  "name": "ChromaRestore AI Expert",
+  "description": "Professional digital reconstruction and intelligent colorization system for historical black and white photographs using Gemini Pro AI analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
